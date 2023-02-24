@@ -22,3 +22,17 @@
     background-color: #B68C5A;
     width: 10%;
 }
+.small-image{
+position: relative;
+top: -5em;
+/* background-color: bisque; */
+
+
+}
+
+.small-image img{
+    width: 10%;
+    background-color: bisque;
+    border-radius: 50%;
+    text-align: center;
+}
