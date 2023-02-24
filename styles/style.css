@@ -36,3 +36,11 @@ top: -5em;
     border-radius: 50%;
     text-align: center;
 }
+.accordion-size{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.accordion-size img{
+    width: 60%;
+}
